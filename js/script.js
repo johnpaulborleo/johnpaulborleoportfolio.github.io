@@ -23,9 +23,7 @@ mobileNavLinks.forEach(function (link) {
     });
 });
 
-// ===============================
 // Scripture Character
-// ===============================
 
 const scriptureCharacter = document.getElementById("scripture-character");
 
